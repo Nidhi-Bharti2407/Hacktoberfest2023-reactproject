@@ -7,7 +7,7 @@ const MotionBox = motion<BoxProps>(Box);
 const Example = () => {
   return (
     <MotionBox
-      height="40px"
+      height="50px"
       bg="red.300"
       drag="x"
       dragConstraints={{ left: -100, right: 100 }}
