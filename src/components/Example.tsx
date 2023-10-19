@@ -8,7 +8,7 @@ const Example = () => {
   return (
     <MotionBox
       height="50px"
-      bg="red.300"
+      bg="blue.350"
       drag="x"
       dragConstraints={{ left: -100, right: 100 }}
       whileHover={{ scale: 1.1 }}
