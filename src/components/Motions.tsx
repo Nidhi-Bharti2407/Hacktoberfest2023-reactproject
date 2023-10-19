@@ -5,8 +5,6 @@ import {
   FlexProps,
   Stat,
   StatProps,
-  Effect,
-  EfffectProps,
 } from "@chakra-ui/react";
 import { motion } from "framer-motion";
 
