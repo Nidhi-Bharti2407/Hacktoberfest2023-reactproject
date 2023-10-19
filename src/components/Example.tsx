@@ -10,7 +10,7 @@ const Example = () => {
       height="50px"
       bg="blue.350"
       drag="x"
-      dragConstraints={{ left: -100, right: 100 }}
+      dragConstraints={{ left: -110, right: 110 }}
       whileHover={{ scale: 1.1 }}
       whileTap={{ scale: 0.9 }}
     />
